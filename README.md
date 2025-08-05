@@ -12,7 +12,9 @@ Explore the app here: [Many a Meal - Italian Cuisine](https://kellylindsaycodes.
 - 🏠 **Landing Page:** Clean and modern entry point to the app.
 - 🍝 **Cuisine Sections:** Browse recipes by category:
   - Italian
-  - [Add more cuisines if applicable]
+  - American
+  - Thai
+  - Japanese
 - ⚛️ **Built with React:** Fast, component-based frontend experience.
 - 🌐 **External API Integration:** Fetches real-time recipe data from a third-party API.
 
@@ -22,7 +24,7 @@ Explore the app here: [Many a Meal - Italian Cuisine](https://kellylindsaycodes.
 
 - **Frontend:** React, HTML5, CSS3
 - **Backend:** Node.js
-- **API:** External Recipe API (e.g., Edamam, Spoonacular, etc.)
+- **API:** External Recipe API (e.g.Spoonacular)
 - **Deployment:** GitHub Pages
 
 ## 📁 Project Structure
