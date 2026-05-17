@@ -4,7 +4,7 @@ A responsive and interactive web application built using **React** and **Node.js
 
 ## 🔗 Live Demo
 
-Explore the app here: [Many a Meal - Italian Cuisine](https://kellylindsaycodes.github.io/cuisine/Italian)
+Explore the app here: (https://kellylindsaycodes.github.io/many-a-meal/)
 
 ## 🌟 Features
 
